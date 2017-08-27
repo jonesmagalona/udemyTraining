@@ -1,0 +1,11 @@
+Hello All
+
+This is the 3rd one added to test
+
+git status
+git add .
+git commit -m "Whatever message"
+"
+
+git push
+
